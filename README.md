@@ -121,6 +121,3 @@ Each module in the course is paired with a programming assignment that reinforce
 
 ---
 
-## Summary
-
-CSCI 4611 is a programming-intensive course that blends theory with practice to provide a strong foundation in modern computer graphics. By completing the assignments and modules, students gain experience building interactive, visually rich applications while understanding the core principles that drive real-world graphics systems.
